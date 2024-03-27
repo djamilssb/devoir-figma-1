@@ -6,6 +6,14 @@ html, * {
     transition: 500ms;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: medium;
+    color: #161618;
+    background-color: #f2efef;
+}
+
 .container {
     background-image: url("./Image/header-background\ 1.png");
     width: 1920px;
@@ -86,16 +94,6 @@ a{
 
 a:hover{
     background-size: 100% 100%;
-}
-
-
-
-body {
-    font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    font-weight: medium;
-    color: #161618;
-    background-color: #f2efef;
 }
 
 .logo {
